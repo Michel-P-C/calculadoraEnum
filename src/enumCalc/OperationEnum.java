@@ -1,4 +1,4 @@
-package enumCalque;
+package enumCalc;
 
 import java.util.function.BiFunction;
 
